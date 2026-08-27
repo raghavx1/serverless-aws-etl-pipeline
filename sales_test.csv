@@ -1,0 +1,4 @@
+transaction_id,customer_id,customer_name,email,product_id,product_name,category,order_date,amount
+TX1001,C01,John Doe,john@example.com,P01,Wireless Mouse,Electronics,2026-08-27 10:30:00,29.99
+TX1002,C02,Jane Smith,jane@example.com,P02,Mechanical Keyboard,Electronics,2026-08-27 11:00:00,89.50
+TX1003,C03,Bob Wilson,bob@example.com,P01,Wireless Mouse,Electronics,INVALID_DATE,-50.00
